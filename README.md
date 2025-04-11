@@ -11,7 +11,7 @@ pillow
 
 and it will work.
 
-![heema](https://user-images.githubusercontent.com/59841219/199723121-65c7a45b-a0e0-4137-88b5-19bf3953cb15.png)
+
 
 
 NEW FEATURES: 
